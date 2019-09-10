@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="160dc4bc-0ace-4f8b-b035-63723312ad13" name="Default Changelist" comment="" />
+    <list default="true" id="160dc4bc-0ace-4f8b-b035-63723312ad13" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Bootstrap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloBootstap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloBootstap/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,21 +40,25 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1QTQnr85tUA6dSUKnQ6wnOO7pvC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Lewis\PhpstormProjects\Bootstrap\css" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lewis\Documents\GitHub\Gamerlance\DesignWeb\Bootstrap" />
       <recent name="C:\Users\Lewis\PhpstormProjects\css1" />
       <recent name="C:\Users\Lewis\PhpstormProjects\css" />
       <recent name="C:\Users\Lewis\PhpstormProjects\js" />
       <recent name="C:\Users\Lewis\PhpstormProjects\Bootstrap" />
-      <recent name="C:\Users\Lewis\PhpstormProjects\Bootstrap\.idea" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lewis\PhpstormProjects\Bootstrap\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -53,10 +84,25 @@
       <option name="presentableId" value="Default" />
       <updated>1567792275960</updated>
       <workItem from="1567792277041" duration="1424000" />
+      <workItem from="1568140624798" duration="21000" />
+      <workItem from="1568140673972" duration="207000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a12331b3-8e82-43d4-b368-d22bf70bca80" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Bootstrap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bootstrap/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="71fe8823-f78a-4b8c-9f56-d9eaa094e3d7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,29 +16,29 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-  </component>
-  <component name="ProjectId" id="1QTvRJtE0NrzorBRaJ53xsAFNOf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1QTThHq7kTUwUpe8r1dZ9qwWQ0b" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Bootstrap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Lewis\PhpstormProjects\HelloBootstap" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Lewis\PhpstormProjects\HelloBootstap" />
+      <recent name="C:\Users\Lewis\PhpstormProjects\Exercice1\image" />
+      <recent name="C:\Users\Lewis\PhpstormProjects\Exercice1" />
+      <recent name="C:\Users\Lewis\PhpstormProjects\Exercice1\css" />
+      <recent name="C:\Users\Lewis\PhpstormProjects\Exercice1\usa" />
+      <recent name="C:\Users\Lewis\PhpstormProjects\Exercice1\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lewis\PhpstormProjects\Exercice1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -60,29 +58,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a12331b3-8e82-43d4-b368-d22bf70bca80" name="Default Changelist" comment="" />
-      <created>1567807390922</created>
+      <changelist id="71fe8823-f78a-4b8c-9f56-d9eaa094e3d7" name="Default Changelist" comment="" />
+      <created>1567793703265</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567807390922</updated>
-      <workItem from="1567807394184" duration="1439000" />
-      <workItem from="1567808901392" duration="3745000" />
-      <workItem from="1568140647074" duration="25000" />
+      <updated>1567793703265</updated>
+      <workItem from="1567793704325" duration="2549000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>

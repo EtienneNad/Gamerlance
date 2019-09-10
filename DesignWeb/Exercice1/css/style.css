@@ -1,0 +1,11 @@
+.bg{height: 475px;
+   background-image: url("../image/download.png");
+}
+hr{
+    padding-bottom: 30px;
+    padding-top:30px;
+    max-width: 50px;
+    border-width: 3px;
+    border-color: black;
+
+}
