@@ -12,7 +12,12 @@ hr{
     border-color: black;
 
 }
-p{height: 34px;
+p{font-size: 30px;
 
-    border-color: black;
+   color: red;
+}
+button{align-content: center;
+background-color: orange;
+    border: none;
+    border-radius: 120px;
 }
