@@ -2,12 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71fe8823-f78a-4b8c-9f56-d9eaa094e3d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../template/.idea/template.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../template/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../template/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bootstrap/.idea/Bootstrap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/254906.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/4df1e8739833c2f3-600x338.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/656544_assassins-creed-wallpaper-hd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/ACOD_screen_NavalBoarding_1538388601-600x338.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/ac-origins-phylakes-2-600x338.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/db00b6ebd620-600x338.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercices2/IMG/bombe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercices2/IMG/images.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercices2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloBootstrapWorld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercices3/Home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercices3/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercices3/img/Cubes-1920x1080-Wallpaper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercices3/img/Guardians_of_the_Galaxy_Vol._2_Raccoons_Rocket_523942_1920x1080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercices3/img/LqXVPaD.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercices3/img/eJa3CB1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercices3/img/rip Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercices3/img/star-wars-battlefront-30688-1920x1080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercices3/img/ws_Batman_watching_1920x1080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercices3/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercices3/page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercices3/page3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bootstrap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bootstrap/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/392814.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/440006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/75f48d911c1871d82558797d341bb228.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/assassins.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/download.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/download.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/images.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/maxresdefault.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloBootstrapWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloBootstrapWorld/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,20 +66,20 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exercices3" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Lewis\PhpstormProjects\Exercice1" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Lewis\Documents\GitHub\Gamerlance\DesignWeb\Exercice1\image" />
+      <recent name="C:\Users\Lewis\Documents\GitHub\Gamerlance\DesignWeb\Exercice1\ubi" />
       <recent name="C:\Users\Lewis\PhpstormProjects\Exercice1\image" />
       <recent name="C:\Users\Lewis\PhpstormProjects\Exercice1" />
       <recent name="C:\Users\Lewis\PhpstormProjects\Exercice1\css" />
-      <recent name="C:\Users\Lewis\PhpstormProjects\Exercice1\usa" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lewis\PhpstormProjects\Exercice1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -85,6 +114,19 @@
       <workItem from="1568217109512" duration="3000" />
       <workItem from="1568221876002" duration="1858000" />
       <workItem from="1568291531988" duration="5400000" />
+      <workItem from="1568395319903" duration="6099000" />
+      <workItem from="1568511365871" duration="738000" />
+      <workItem from="1568588852117" duration="166000" />
+      <workItem from="1568595588057" duration="7660000" />
+      <workItem from="1568604298099" duration="2853000" />
+      <workItem from="1568635972069" duration="142000" />
+      <workItem from="1568642654792" duration="4217000" />
+      <workItem from="1568647011038" duration="273000" />
+      <workItem from="1568742976451" duration="47000" />
+      <workItem from="1568743329060" duration="1319000" />
+      <workItem from="1569001719902" duration="1879000" />
+      <workItem from="1569021441102" duration="599000" />
+      <workItem from="1569110391826" duration="10000" />
     </task>
     <servers />
   </component>

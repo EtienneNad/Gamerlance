@@ -1,26 +1,46 @@
-.bg{height:1920px;
+.bg{height:1080px;
 
-    background-image: url("../image/assassins.jpg") ;
+    background-image: url("../image/254906.jpg") ;
     background-repeat:no-repeat ;
 
 }
 hr{
     padding-bottom: 30px;
-    padding-top:30px;
     max-width: 50px;
+    padding-top:30px;
     border-width: 3px;
     border-color: black;
 
 }
-p{font-size: 30px;
+p{font-size: 40px;
 
-   color: red;
+   color: orangered;
 }
 button{align-content: center;
 background-color: orange;
     border: none;
-    border-radius: 120px;
+    border-radius: 300px;
 }
-.bleu  {
-    background-color: blue;
+.bg2{
+    background-color: burlywood;
+
 }
+h2{
+    color:white ;
+}
+.colo{font-size:30px;
+color: black;
+
+}
+.bg3{
+    background-color: white;
+
+}
+i{font-size: 100px;
+    color: red;
+}
+
+
+
+
+
