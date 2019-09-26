@@ -2,6 +2,23 @@
 color:orange;
 
 }
-.bg{
-background-color: #0b2e13;
+.ore{
+background-color: orangered;
+}
+i{ align-content: center;
+    font-size: 60px;
+}
+hr{
+    margin-bottom:30px;
+    margin-top:30px;
+    max-width: 50px;
+    border-width: 3px;
+    border-color: #1b1e21;
+}
+.vbg{align-content: center;
+    background-color: darkblue;
+}
+.blue{
+
+    background-color: darkblue;
 }

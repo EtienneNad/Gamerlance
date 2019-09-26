@@ -2,58 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ffeae5e-8277-4a24-b379-fca128d0c74d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Bootstrap/.idea/Bootstrap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercice1/image/254906.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercice1/image/4df1e8739833c2f3-600x338.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercice1/image/656544_assassins-creed-wallpaper-hd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercice1/image/ACOD_screen_NavalBoarding_1538388601-600x338.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercice1/image/ac-origins-phylakes-2-600x338.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercice1/image/db00b6ebd620-600x338.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercices2/IMG/bombe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercices2/IMG/images.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exercices2/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HelloBootstrapWorld/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapitre 4/Question3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapitre 4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapitre 4/question1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapitre 4/question2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapitre 4/question4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapitre 4/question5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapitre 4/question6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapitre 4/question7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercices3/Home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercices3/audio/audio.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercices3/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercices3/img/2-01 Mama, I'm Coming Home.m4a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercices3/img/Cubes-1920x1080-Wallpaper.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercices3/img/Guardians_of_the_Galaxy_Vol._2_Raccoons_Rocket_523942_1920x1080.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercices3/img/LqXVPaD.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercices3/img/QlMhZ9N7sJ8AmuvwzUzkPBmlOUoZK6M27B-MYEL0x6o.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercices3/img/download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercices3/img/eJa3CB1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercices3/img/images.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercices3/img/rip Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercices3/img/rocket-league-hd-wallpapers-33579-7229148.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercices3/img/rocket-league-wallpaper-hd-61734-63570-hd-wallpapers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercices3/img/rocket-league.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercices3/img/star-wars-battlefront-30688-1920x1080.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercices3/img/ws_Batman_watching_1920x1080.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercices3/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercices3/page2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercices3/page3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Bootstrap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bootstrap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercice1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercice1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercice1/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercice1/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercice1/image/392814.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercice1/image/440006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercice1/image/75f48d911c1871d82558797d341bb228.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercice1/image/assassins.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercice1/image/download.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercice1/image/download.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercice1/image/images.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercice1/image/maxresdefault.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercice1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercice1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloBootstrapWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloBootstrapWorld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercices3/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../exercices3/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercices3/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../exercices3/page2.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +24,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exercices3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -104,6 +55,7 @@
       <workItem from="1569274881795" duration="159000" />
       <workItem from="1569345790597" duration="102000" />
       <workItem from="1569451116174" duration="620000" />
+      <workItem from="1569456612111" duration="527000" />
     </task>
     <servers />
   </component>
