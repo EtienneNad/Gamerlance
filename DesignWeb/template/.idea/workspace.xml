@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75ce5e2d-3728-4a60-a324-248d660c0bb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercice1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercice1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercice1/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercice1/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercice1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercice1/index.html" afterDir="false" />
+    <list default="true" id="e1041871-43ae-443b-8d82-d08082e2b419" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exercices5/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercices5/image/Butterfly-Desktop-Backgrounds.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercices5/image/actias-luna-31492-rl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercices5/image/ja.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercices5/image/orig_398074.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercices4/img/canadien.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercices4/img/download.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercices4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercices4/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/img/download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programation 1/chapitre 4/question10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programation 1/chapitre 4/question11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programation 1/chapitre 4/question12.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programation 1/chapitre 4/question13.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programation 1/chapitre 4/question14.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programation 1/chapitre 4/question16.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programation 1/chapitre 4/question9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programation 1/chapitre 4/qustion15.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercices3/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../exercices3/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercices3/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../exercices3/page2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercices3/page3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../exercices3/page3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-3.4.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-3.4.1.min.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +49,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1Qjs6J0QfTVDd8m6IFs8JF7URHV" />
+  <component name="ProjectId" id="1RvnrZJckUighUVYPoxfyxN4yqF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -58,12 +78,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="75ce5e2d-3728-4a60-a324-248d660c0bb2" name="Default Changelist" comment="" />
-      <created>1568295162734</created>
+      <changelist id="e1041871-43ae-443b-8d82-d08082e2b419" name="Default Changelist" comment="" />
+      <created>1570556636520</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568295162734</updated>
-      <workItem from="1568295164248" duration="1672000" />
+      <updated>1570556636520</updated>
+      <workItem from="1570556638058" duration="653000" />
     </task>
     <servers />
   </component>

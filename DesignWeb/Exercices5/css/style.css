@@ -1,0 +1,115 @@
+html,body { margin:0; height:100%;}
+.parallax {
+    /* L’image du Parallax */
+    background-image: url(../image/ja.jpg);
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.he{
+    height: 90%;
+}
+.bg{
+    background-color: yellow;
+}
+.ht{
+     height: 10%;
+
+ }
+.bg2{
+
+background-color: red;
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+.bg16{
+    background-image:url(../image/actias-luna-31492-rl.jpg) ;
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.wt{
+    width: 100%;
+    margin: 0px ;
+}
+
+
+
+
+.parallax2{
+    background-image:url(../image/orig_398074.jpg) ;
+
+
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax3 {
+    background-image:url(../image/Butterfly-Desktop-Backgrounds.jpg) ;
+
+
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tco{
+    color:white;
+
+}
+.bgc{
+    background-color: #0c5460;
+}
+.t{font-size: 60px;
+
+}
+.bgc2{
+    background-color: darkgoldenrod;
+}
+.bgc3{background-color: #9fcdff;
+
+}
+@media only screen and (max-width: 480px){
+    .cache{
+
+        visibility: hidden;
+         display: none;
+        background-image: url("../image/ja.jpg");
+}
+}
+
+.cache2 {
+    background-color: tan;
+}
+
+/* On screens that are 992px or less, set the background color to blue */
+@media screen and (max-width: 992px) {
+
+    .cache2 {
+        background-color: blue;
+    }
+}
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 600px) {
+    .cache2 {
+        background-image: url("../image/ja.jpg");
+    }
+}
