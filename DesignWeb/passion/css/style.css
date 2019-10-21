@@ -1,0 +1,191 @@
+.section4 {
+    position: relative;
+    background-color:white ;
+    height: 100%;
+
+    min-height: 25rem;
+    width: 100%;
+    overflow: hidden;
+}
+
+section4 .video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 0;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+section4 .container {
+    position: relative;
+    z-index: 2;
+}
+
+section .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+
+
+
+
+
+
+/*anime*/
+html,body { margin:0; height:100%;}
+.parallax {
+    /* L’image du Parallax */
+    background-image: url(../image/onePiece.jpg);
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.he{
+    height: 90%;
+}
+.bg{
+    background-color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+.parallax2 {
+    background-image:url(../image/Fairytail.png) ;
+
+
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+.bgc{
+    background-color: #0c5460;
+}
+
+
+@media all and (min-width: 480px) {
+    h1{
+    font-size: 6rem;
+}
+h2{
+    font-size: 3rem;
+
+}
+
+p{
+    font-size: 1.5rem;
+}
+h5{
+    font-size: 2rem;
+}
+i{
+    font-size: 3rem;
+}
+}
+footer{
+    background-color: black;
+    color: white;
+}
+.tcoA{
+    color: chocolate;
+}
+.tcoA2{
+    color: olivedrab;
+}
+/*hockey*/
+/* Set the background color of body to tan */
+.cache {
+    background-image: url("../image/lhjmq.jpg");
+
+    height: 100%;
+
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 600px) {
+    .cache {
+        background-image: url("../image/joueur.png");
+        Height: 100%;
+
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+hr{
+    margin-bottom:30px;
+    margin-top:30px;
+    max-width: 50px;
+    border-width: 3px;
+    border-color: #1b1e21;
+}
+
+.vbg{
+    align-content: center;
+    background-color: darkblue;
+}
+.bgc2{
+    background-color: black;
+}
+.bgc3{
+    background-color: gray;
+
+}
+.color{
+    color:orangered;
+}
+/*Jeux video*/
+.bg2{
+    background-color: deepskyblue;
+    color:blue;
+}
+/*acceuil*/
+.vbg2{
+    background-color: orange;
+}
+.bg3{
+    background-color: darkgreen;
+    color: orange;
+}
+.bg4{
+    background-color: #818182;
+}

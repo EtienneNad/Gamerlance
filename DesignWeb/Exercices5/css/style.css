@@ -74,8 +74,6 @@ background-color: red;
     color:white;
 
 }
-.bgc{
-    background-color: #0c5460;
 }
 .t{font-size: 60px;
 
@@ -85,31 +83,3 @@ background-color: red;
 }
 .bgc3{background-color: #9fcdff;
 
-}
-@media only screen and (max-width: 480px){
-    .cache{
-
-        visibility: hidden;
-         display: none;
-        background-image: url("../image/ja.jpg");
-}
-}
-
-.cache2 {
-    background-color: tan;
-}
-
-/* On screens that are 992px or less, set the background color to blue */
-@media screen and (max-width: 992px) {
-
-    .cache2 {
-        background-color: blue;
-    }
-}
-
-/* On screens that are 600px or less, set the background color to olive */
-@media screen and (max-width: 600px) {
-    .cache2 {
-        background-image: url("../image/ja.jpg");
-    }
-}
