@@ -1,0 +1,68 @@
+body{
+    background-image: url("../image/9ykKM2.png");
+
+}
+label{
+    color: white;
+}
+form{
+    margin-top:100px;
+
+}
+#bg{
+    background-image: url("../image/rouge.jpg");
+}
+.bg2{
+    background-image: url("../image/wood1.jpg");
+}
+img{
+    width: 100%;
+    height: auto;
+}
+#red {
+    background-image: url("../image/rouge.jpg");
+    width: 5rem;
+    height: 5rem;
+}
+#blue{
+    background-image: url("../image/bleu.jpg");
+    width: 5rem;
+    height: 5rem;
+}
+#white{
+    background-image: url("../image/blanc.jpg");
+    width: 5rem;
+    height: 5rem;
+}
+#gray{
+    background-image: url("../image/gris.jpg");
+    width: 5rem;
+    height: 5rem;
+}
+#blueF{
+background-image: url("../image/bleuFonce.jpg");
+    width: 5rem;
+    height: 5rem;
+}
+#black{
+    background-image: url("../image/noir.jpg");
+    width: 5rem;
+    height: 5rem;
+
+}
+#pink{
+    background-image: url("../image/rose.jpg");
+    width: 5rem;
+    height: 5rem;
+
+}
+.las{
+    margin-top:100px;
+}
+p{
+    color: white;
+}
+h1{
+    color: red;
+
+}
