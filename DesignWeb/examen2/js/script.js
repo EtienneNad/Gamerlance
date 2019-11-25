@@ -16,11 +16,12 @@ $('#buttonGo').click(function () {
             lettre[i]=Math.floor(Math.random()*2);
 
 
+
+
         $('#lettre' + (a+1)).attr("src","image/"+nom.toUpperCase()[a]+'/'+nom.toUpperCase()[a]+[i]+".jpg");
 
 
-    }
-
+            }
 
     }
 
