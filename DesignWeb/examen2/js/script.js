@@ -19,9 +19,11 @@ $('#buttonGo').click(function () {
 
 
         $('#lettre' + (a+1)).attr("src","image/"+nom.toUpperCase()[a]+'/'+nom.toUpperCase()[a]+[i]+".jpg");
+                $('#lettre' + (a+1)).on('click',function () {
 
+            })
+    }
 
-            }
 
     }
 
