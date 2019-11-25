@@ -1,10 +1,8 @@
-
-body{
-
-    background-image: url("../image/9ykKM2.png" );
-
-
+html,body{
+    height: 100%;
+    font-size: 10px;
 }
+
 label{
     color: white;
 }
@@ -31,33 +29,41 @@ img{
     background-image: url("../image/bleu.jpg");
     width: 5rem;
     height: 5rem;
+    -webkit-print-color-adjust: exact;
+
 }
 #white{
     background-image: url("../image/blanc.jpg");
     width: 5rem;
     height: 5rem;
+    -webkit-print-color-adjust: exact;
+
 }
 #gray{
     background-image: url("../image/gris.jpg");
     width: 5rem;
     height: 5rem;
+
 }
 #blueF{
 background-image: url("../image/bleuFonce.jpg");
     width: 5rem;
     height: 5rem;
+    -webkit-print-color-adjust: exact;
+
 }
 #black{
     background-image: url("../image/noir.jpg");
     width: 5rem;
     height: 5rem;
+    -webkit-print-color-adjust: exact;
 
 }
 #pink{
     background-image: url("../image/rose.jpg");
     width: 5rem;
     height: 5rem;
-
+    -webkit-print-color-adjust: exact;
 }
 .las{
     margin-top:100px;
