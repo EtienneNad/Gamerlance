@@ -8,21 +8,20 @@ $('#buttonGo').click(function () {
         alert("ce mots est trop long");
     }
 
+
     for (let a=0;a<nom.length;a++){
-        let lettre=5;
+
+        let lettre=0;
         for (let i=0;i<=4;i++){
 
-
             lettre[i]=Math.floor(Math.random()*2);
+            lettre++;
 
 
 
-
-        $('#lettre' + (a+1)).attr("src","image/"+nom.toUpperCase()[a]+'/'+nom.toUpperCase()[a]+[i]+".jpg");
-                $('#lettre' + (a+1)).on('click',function () {
-
-            })
+        $('#lettre' + (a+1)).attr("src","image/"+nom.toUpperCase()[a]+'/'+nom.toUpperCase()[a]+lettre+".jpg");
     }
+
 
 
     }
