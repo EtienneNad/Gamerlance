@@ -1,0 +1,17 @@
+var prixDepart;
+var prixCommission;
+var prixFrais;
+var tps;
+var tvq;
+var totale;
+ prixDepart=Number(prompt("entrer le prix du vehicule"));
+ prixCommission=prixDepart*0.12;
+ prixFrais=Number(prixDepart*0.02);
+ tps=Number(prixDepart*0.05);
+ tvq=Number(prixDepart*0.0995);
+ totale=prixDepart+prixCommission+prixFrais+tps+tvq;
+ alert("le prix totale est de "+totale);
+ alert("le prix de la tps est de "+tps);
+ alert("le prix de la tvq est de "+tvq);
+ alert("le prix des frais est de "+prixFrais);
+ alert("le prix de la commission est de "+prixCommission);

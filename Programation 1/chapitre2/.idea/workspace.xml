@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ac936b8-da9c-485b-87d0-272f8279ef06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/Chapitre6/Question2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/Chapitre6/Question3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/Chapitre6/Question4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/Chapitre6/Question5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/Chapitre6/Question6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/Chapitre6/Question7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/Chapitre6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/Chapitre6/question1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/Exercice jQuery1 StormTrooper/Bootstrap/js/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/chapitre4,1/Question13.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/chapitre4,1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/examen2/Question3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/examen2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/examen2/question1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/examen2/question2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/examen2/question4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/examen2/question5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/formatif2015/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/formatif2015/question1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/formatif2015/question2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/formatif2015/question3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/formatif3/Question1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/formatif3/Question2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/formatif3/Question3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/formatif3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/untitled2/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/untitled2/image/394654.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/untitled2/image/window.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/untitled2/image/ws_Space_Apple_logo_1920x1080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DesignWeb/untitled2/js/java.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapitre 4/question10.js" beforeDir="false" afterPath="$PROJECT_DIR$/../chapitre 4/question10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapitre 4/question11.js" beforeDir="false" afterPath="$PROJECT_DIR$/../chapitre 4/question11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapitre 4/question12.js" beforeDir="false" afterPath="$PROJECT_DIR$/../chapitre 4/question12.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapitre 4/question13.js" beforeDir="false" afterPath="$PROJECT_DIR$/../chapitre 4/question13.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapitre 4/question14.js" beforeDir="false" afterPath="$PROJECT_DIR$/../chapitre 4/question14.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapitre 4/question16.js" beforeDir="false" afterPath="$PROJECT_DIR$/../chapitre 4/question16.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapitre 4/question9.js" beforeDir="false" afterPath="$PROJECT_DIR$/../chapitre 4/question9.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1TAZ8SlBhZrCaCgOfRVJNb7LzY0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Chapitre1" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ac936b8-da9c-485b-87d0-272f8279ef06" name="Default Changelist" comment="" />
+      <created>1572904700181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572904700181</updated>
+      <workItem from="1572904701975" duration="92000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

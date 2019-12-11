@@ -1,0 +1,15 @@
+var noteMiSessionExamen;
+var noteExamenfinSessin;
+var noteLaboratoire;
+var noteMiSessionExamen30;
+var noteExamenFinSession50;
+var notelaboratoire20;
+var noteFinale;
+noteMiSessionExamen=prompt("entrer  votre note d'examen de mi-session");
+noteExamenfinSessin=prompt("entrer votre note examen d'examen de fin de session");
+noteLaboratoire=prompt("entrer votre note d'examen de laboratoire");
+noteMiSessionExamen30=(noteMiSessionExamen*30)/100;
+noteExamenFinSession50=(noteExamenfinSessin*50)/100;
+notelaboratoire20=(noteLaboratoire*20)/100;
+noteFinale=noteMiSessionExamen30+noteExamenFinSession50+notelaboratoire20;
+ alert("voici votre note finale"+noteFinale);

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0eb298a-1473-45f1-8f39-f78ea1800085" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Q6raAHzGg85H1qPNcXeX45u9Ak" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Question10.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../chap2/Question10.js" working-dir="$PROJECT_DIR$/../chap2">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Question10.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0eb298a-1473-45f1-8f39-f78ea1800085" name="Default Changelist" comment="" />
+      <created>1567101947082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567101947082</updated>
+      <workItem from="1567101948268" duration="5062000" />
+      <workItem from="1567107839012" duration="1137000" />
+      <workItem from="1567187496872" duration="50000" />
+      <workItem from="1567522253445" duration="5684000" />
+      <workItem from="1567530229258" duration="636000" />
+      <workItem from="1567531067548" duration="21000" />
+      <workItem from="1567598922229" duration="6980000" />
+      <workItem from="1567633269475" duration="3377000" />
+      <workItem from="1567704400467" duration="51000" />
+      <workItem from="1567777209398" duration="3756000" />
+      <workItem from="1567782389806" duration="14000" />
+      <workItem from="1567813947720" duration="1892000" />
+      <workItem from="1567901881998" duration="4128000" />
+      <workItem from="1568030882913" duration="748000" />
+      <workItem from="1568031940362" duration="609000" />
+      <workItem from="1568140553789" duration="12000" />
+      <workItem from="1569455715149" duration="365000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
