@@ -1,0 +1,149 @@
+html,body { margin:0; height:100%;}
+
+
+.bg{
+    background-color: darkgoldenrod;
+}
+.curseur{
+    cursor: pointer;
+}
+.bgN{
+background-image: url("../Image/film.png");
+
+}
+
+
+
+#navbarNav > ul > li:nth-child(1) > a{
+    color: white;
+
+}
+#navbarNav > ul > li:nth-child(2) > a{
+    color: white;
+
+}#navbarNav > ul > li:nth-child(3) > a{
+     color: white;
+
+ }#navbarNav > ul > li:nth-child(4) > a{
+      color: white;
+
+  }
+#navbarNav > ul > li:nth-child(5) > a{
+    color: white;
+
+}
+
+.active{
+    font-weight: bold;
+}
+/*Accueil*/
+.bgc{
+    background-color:yellowgreen;
+}
+.txt{
+    font-family:Serif,"Times New Roman";
+    font-style: italic;
+    font-weight: 900;
+font-variant: normal;
+}
+/*LucasFilm*/
+#section1 {
+    position: relative;
+    background-color: black;
+    height: 100%;
+    min-height: 25rem;
+    width: 100%;
+    overflow: hidden;
+}
+
+#section1 video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 0;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+} #section1.container {
+    position: relative;
+    z-index: 2;
+}
+
+#section1 .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+
+
+/*Marvel*/
+.bgM{
+    background-image: url("../Image/marmo.jpg");
+    height: 100%;
+
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.tcM{
+    color: red;
+    font-family:Serif,"Times New Roman";
+    font-style: italic;
+    font-weight: 900;
+    font-variant: normal;
+}
+/*DC*/
+.bgDC{
+    background-image: url("../Image/DCmo.jpg");
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.bgc{
+    background-color: rebeccapurple;
+}
+.tcDC{
+    color: blue;
+
+    font-family:Serif,"Times New Roman";
+    font-style: italic;
+    font-weight: 900;
+    font-variant: normal;
+    font-size: 8rem;
+}
+/*Disney*/
+.ParallaxVideo{
+
+    height: 300px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.ParallaxVideo video{
+    min-width: 100%;
+    position: fixed;
+    top:0;
+    z-index: -999;
+}
+.ParallaxVideo h1 {
+    color: #fff;
+    font-size: 76px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+}
