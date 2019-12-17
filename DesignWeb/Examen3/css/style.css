@@ -183,7 +183,7 @@ font-variant: normal;
 }
 /*DC*/
 .tcDC2{
-    color: grey;
+    color: deepskyblue;
 
     font-family:Serif,"Times New Roman";
     font-style: italic;
@@ -213,6 +213,14 @@ font-variant: normal;
     font-size: 5.5rem;
 }
 /*Disney*/
+.tcDi2{
+    color: orchid;
+    font-family:Serif,"Times New Roman";
+    font-style: italic;
+    font-weight: 900;
+    font-variant: normal;
+    font-size: 4rem;
+}
 .bgDi{
     background-image: url("../imgDi/original.png");
 }
@@ -222,7 +230,7 @@ font-variant: normal;
     font-style: italic;
     font-weight: 900;
     font-variant: normal;
-    font-size: 8rem;
+    font-size: 5.5rem;
 }
 .ParallaxVideo{
 
