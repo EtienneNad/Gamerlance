@@ -37,6 +37,22 @@ background-image: url("../Image/film.png");
     font-weight: bold;
 }
 /*Accueil*/
+#body1{
+    background-color: black;
+}
+.clo1{
+    color: #818182;
+}
+.clo{
+    color: yellowgreen;
+}
+.BgcA{
+ background-color: #1b1e21;
+}
+.bgcA1{
+background-color: #818182;
+ }
+
 .bgc{
     background-color:yellowgreen;
 }
@@ -47,6 +63,14 @@ background-image: url("../Image/film.png");
 font-variant: normal;
 }
 /*LucasFilm*/
+.tcoL{
+    color: darkgoldenrod;
+    font-family:Serif,"Times New Roman";
+    font-style: italic;
+    font-weight: 900;
+    font-variant: normal;
+    font-size: 8rem;
+}
 #section1 {
     position: relative;
     background-color: black;
@@ -62,8 +86,8 @@ font-variant: normal;
     left: 50%;
     min-width: 100%;
     min-height: 100%;
-    width: auto;
-    height: auto;
+    width: 100%;
+    height: 100%;
     z-index: 0;
     -ms-transform: translateX(-50%) translateY(-50%);
     -moz-transform: translateX(-50%) translateY(-50%);
@@ -105,6 +129,7 @@ font-variant: normal;
     font-style: italic;
     font-weight: 900;
     font-variant: normal;
+    font-size: 8rem;
 }
 /*DC*/
 .bgDC{
@@ -128,6 +153,14 @@ font-variant: normal;
     font-size: 8rem;
 }
 /*Disney*/
+.tcoDi{
+    color: orchid;
+    font-family:Serif,"Times New Roman";
+    font-style: italic;
+    font-weight: 900;
+    font-variant: normal;
+    font-size: 8rem;
+}
 .ParallaxVideo{
 
     height: 300px;

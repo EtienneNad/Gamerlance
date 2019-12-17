@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta charset="UTF-8">
     <title>Acceuil</title>
-    <link rel="icon" type="image/png" href="image/BonFilm.jpg" img src="image/BonFilm.jpg" height="512" width="512"/>
+    <link rel="icon" type="image/png" href="image/BonFilm.jpg"  src="image/BonFilm.jpg" height="512" width="512"/>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
 
@@ -17,14 +17,14 @@
 
 
 </head>
-<body>
+<body id="body1">
 <header>
 <nav class="navbar navbar-expand-lg navbar-light bgN">
     <div >
     <img src="Image/BonFilm.jpg"  width="100px" height="100px" class="img-fluid" >
     </div>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"   aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
+        <span class="navbar"><img src="Image/fleche.png" height="40" width="40"/></span>
     </button>
 
     <div class="collapse navbar-collapse" id="navbarNav">
@@ -79,14 +79,88 @@
 </section>
 <section>
     <div class="container-fluid">
-        <div class="row">
-            <div class="col-xl-12">
+    <div class="row">
+        <div class=" col-xl-12 col-12 text-center clo">
+<h1>Abonnement Gratuit</h1>
+        </div>
+    </div>
+    </div>
+    <form >
+        <div class="form-group col-xl-12 col-12 clo1">
+            <label for="uname" >Username:</label>
+            <input type="text" class="form-control" id="uname" placeholder="Enter username" >
+            <span class="error" id="errerUser"></span>
 
+        </div>
+        </div>
+
+        <div class="container-fluid">
+            <div class="form-row">
+                <div class="form-group col-xl-12 col-12 clo1">
+                    <label for="email">Email</label>
+                    <input type="email" class="form-control" id="email" placeholder="Email" >
+                    <span class="error" id="errerEmail"></span>
+                </div>
+
+
+            </div>
+        </div>
+        <div class="form-group col-xl-12 col-12 clo1">
+            <label for="password1">Mots de passe:</label>
+            <input type="password" class="form-control" id="password1" placeholder="mots de passe" >
+            <span class="error" id="errerPwd"></span>
+        </div>
+        <div class="form-group col-xl-12 col-12 clo1">
+            <label for="password2">confirmation du mots de passe</label>
+            <input type="password" class="form-control" id="password2" placeholder="mots de passe">
+            <span class="error" id="errerPwd2"></span>
+        </div>
+
+        <div class="form-group col-xl-4 col-4 clo1">
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" id="gridCheck">
+                <label class="form-check-label" for="gridCheck">
+                    Check me out
+                </label>
+            </div>
+            <div class="col-md-4 col-4 col-1">
+                <button type="submit" class="btn btn-secondary" >Submit</button>
+            </div>
+
+        </div>
+    </form>
+</section>
+<section class="container-fluid">
+    <div class="row ">
+        <div class="col-xl-12  col-12  ">
+            <div class="card BgcA">
+                <div class="card-body">
+                    <h1 class="text-center clo">Où nous trouver</h1>
+                    <div class="col-12 text-center">
+                        <div class="card bgcA1">
+                            <div class="card-body ">
+                                <div class="row align-items-center offset-3  ">
+                                    <iframe src="https://www.google.com/maps/d/embed?mid=1zCb68KAfWCSiSt8Cmp1DWbr782IQJsgK" width="640" height="480"></iframe>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 </section>
-
+<section class="container-fluid">
+    <div class="row ">
+        <div class="col-xl-12 col-12">
+            <div class="card">
+                
+                <div class="card-body">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <footer>
     <div class="col-xl-12 col-12 text-center bg coul">
         <a class="text-center curseur"  data-toggle="popover"  data-content="@copy write Étienne Nadeau.">créateur</a>
