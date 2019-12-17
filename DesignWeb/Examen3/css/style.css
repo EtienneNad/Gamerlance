@@ -26,7 +26,7 @@ background-image: url("../Image/film.png");
      background-color: #721c24;
  }
  i{
-     font-size: 45px;
+     font-size: 62px;
  }
 .fac{
 color: mediumblue;
@@ -87,6 +87,17 @@ background-color: #818182;
 font-variant: normal;
 }
 /*LucasFilm*/
+#body2{
+    background-image: url("../imgLu/29914.jpg") ;
+}
+.tcol2{
+    color: darkgoldenrod;
+    font-family:Serif,"Times New Roman";
+    font-style: italic;
+    font-weight: 900;
+    font-variant: normal;
+    font-size: 4rem;
+}
 .tcoL{
     color: darkgoldenrod;
     font-family:Serif,"Times New Roman";
@@ -136,6 +147,12 @@ font-variant: normal;
 
 
 /*Marvel*/
+#body3{
+    background-image: url("../imgM/e50291c447989fc29a92ae57014c3d1f.jpg");
+
+    width: 100%;
+    position: center;
+}
 .bgM{
     background-image: url("../Image/marmo.jpg");
     height: 100%;
