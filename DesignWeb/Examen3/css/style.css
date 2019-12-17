@@ -26,7 +26,7 @@ background-image: url("../Image/film.png");
      background-color: #721c24;
  }
  i{
-     font-size: 62px;
+     font-size: 63px;
  }
 .fac{
 color: mediumblue;
@@ -179,9 +179,18 @@ font-variant: normal;
     font-style: italic;
     font-weight: 900;
     font-variant: normal;
-    font-size: 8rem;
+    font-size: 5.5rem;
 }
 /*DC*/
+.tcDC2{
+    color: grey;
+
+    font-family:Serif,"Times New Roman";
+    font-style: italic;
+    font-weight: 900;
+    font-variant: normal;
+    font-size: 4rem;
+}
 #body4{
     background-image: url("../imgDC/DSC100246481.jpg");
 }
@@ -193,9 +202,7 @@ font-variant: normal;
     background-repeat: no-repeat;
     background-size:cover;
 }
-.bgc{
-    background-color: rebeccapurple;
-}
+
 .tcDC{
     color: blue;
 
@@ -203,7 +210,7 @@ font-variant: normal;
     font-style: italic;
     font-weight: 900;
     font-variant: normal;
-    font-size: 8rem;
+    font-size: 5.5rem;
 }
 /*Disney*/
 .bgDi{
