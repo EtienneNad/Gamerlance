@@ -184,7 +184,7 @@ font-variant: normal;
 }
 .ParallaxVideo{
 
-    height: 300px;
+    height: auto;
     padding-bottom: 50px;
     padding-top: 50px;
 }
