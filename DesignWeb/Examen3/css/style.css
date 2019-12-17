@@ -104,7 +104,7 @@ font-variant: normal;
     font-style: italic;
     font-weight: 900;
     font-variant: normal;
-    font-size: 8rem;
+    font-size: 5.5rem;
 }
 #section1 {
     position: relative;
@@ -162,6 +162,15 @@ font-variant: normal;
     background-repeat: no-repeat;
     background-size: cover;
 
+
+}
+.tcoM2{
+    color: darkred;
+    font-family:Serif,"Times New Roman";
+    font-style: italic;
+    font-weight: 900;
+    font-variant: normal;
+    font-size: 4rem;
 
 }
 .tcM{
