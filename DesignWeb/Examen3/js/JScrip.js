@@ -1,3 +1,6 @@
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover();
+});
 $('#cache').hide();
 $('#star').click(function () {
     $('#cache').show();

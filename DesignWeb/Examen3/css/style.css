@@ -182,6 +182,9 @@ font-variant: normal;
     font-size: 8rem;
 }
 /*DC*/
+#body4{
+    background-image: url("../imgDC/DSC100246481.jpg");
+}
 .bgDC{
     background-image: url("../Image/DCmo.jpg");
     height: 100%;
@@ -203,6 +206,9 @@ font-variant: normal;
     font-size: 8rem;
 }
 /*Disney*/
+.bgDi{
+    background-image: url("../imgDi/original.png");
+}
 .tcoDi{
     color: orchid;
     font-family:Serif,"Times New Roman";
