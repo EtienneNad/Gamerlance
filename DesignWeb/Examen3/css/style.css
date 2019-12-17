@@ -11,7 +11,12 @@ html,body { margin:0; height:100%;}
 background-image: url("../Image/film.png");
 
 }
+.rou{
 
+}
+ .bgco{
+     background-color: #721c24;
+ }
 
 
 #navbarNav > ul > li:nth-child(1) > a{
