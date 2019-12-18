@@ -87,6 +87,10 @@ background-color: #818182;
 font-variant: normal;
 }
 /*LucasFilm*/
+.bg1{
+    background-color: dimgray;
+    color: darkgoldenrod;
+}
 #body2{
     background-image: url("../imgLu/29914.jpg") ;
 }
@@ -147,6 +151,9 @@ font-variant: normal;
 
 
 /*Marvel*/
+.bg2{
+    background-color: crimson;
+}
 #body3{
     background-image: url("../imgM/e50291c447989fc29a92ae57014c3d1f.jpg");
 
@@ -182,6 +189,9 @@ font-variant: normal;
     font-size: 5.5rem;
 }
 /*DC*/
+.bg3{
+    background-color: #0069d9;
+}
 .tcDC2{
     color: deepskyblue;
 
