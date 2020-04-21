@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cegepLibrairie", "cegepLibrairie\cegepLibrairie.csproj", "{557B0942-BE52-47F2-8774-A47891E828F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cegep", "cegep\cegep.csproj", "{37C7BDAA-AB89-448E-948B-DC8E9839F365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{557B0942-BE52-47F2-8774-A47891E828F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557B0942-BE52-47F2-8774-A47891E828F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557B0942-BE52-47F2-8774-A47891E828F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557B0942-BE52-47F2-8774-A47891E828F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37C7BDAA-AB89-448E-948B-DC8E9839F365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C7BDAA-AB89-448E-948B-DC8E9839F365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C7BDAA-AB89-448E-948B-DC8E9839F365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C7BDAA-AB89-448E-948B-DC8E9839F365}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FECBE66-8236-4688-ABF8-987952BB89B8}
+	EndGlobalSection
+EndGlobal

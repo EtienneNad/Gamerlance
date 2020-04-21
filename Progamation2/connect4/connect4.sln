@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "connect4", "connect4\connect4.csproj", "{0260AFE8-68E9-4317-ADFB-2894A5B010AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jeu", "jeu\jeu.csproj", "{99B324FB-C833-45C9-8FA0-5B4AEC547057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0260AFE8-68E9-4317-ADFB-2894A5B010AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0260AFE8-68E9-4317-ADFB-2894A5B010AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0260AFE8-68E9-4317-ADFB-2894A5B010AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0260AFE8-68E9-4317-ADFB-2894A5B010AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B324FB-C833-45C9-8FA0-5B4AEC547057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B324FB-C833-45C9-8FA0-5B4AEC547057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B324FB-C833-45C9-8FA0-5B4AEC547057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B324FB-C833-45C9-8FA0-5B4AEC547057}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E5090C3-CA3C-4934-A934-9B34BE6D0296}
+	EndGlobalSection
+EndGlobal
