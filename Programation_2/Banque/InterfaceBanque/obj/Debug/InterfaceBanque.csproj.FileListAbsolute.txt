@@ -1,0 +1,8 @@
+C:\Users\Lewis\Documents\GitHub\Gamerlance\Programation_2\Banque\InterfaceBanque\obj\Debug\InterfaceBanque.csprojAssemblyReference.cache
+C:\Users\Lewis\Documents\GitHub\Gamerlance\Programation_2\Banque\InterfaceBanque\bin\Debug\InterfaceBanque.dll
+C:\Users\Lewis\Documents\GitHub\Gamerlance\Programation_2\Banque\InterfaceBanque\bin\Debug\InterfaceBanque.pdb
+C:\Users\Lewis\Documents\GitHub\Gamerlance\Programation_2\Banque\InterfaceBanque\bin\Debug\Banque.dll
+C:\Users\Lewis\Documents\GitHub\Gamerlance\Programation_2\Banque\InterfaceBanque\bin\Debug\Banque.pdb
+C:\Users\Lewis\Documents\GitHub\Gamerlance\Programation_2\Banque\InterfaceBanque\obj\Debug\InterfaceBanque.csproj.CopyComplete
+C:\Users\Lewis\Documents\GitHub\Gamerlance\Programation_2\Banque\InterfaceBanque\obj\Debug\InterfaceBanque.dll
+C:\Users\Lewis\Documents\GitHub\Gamerlance\Programation_2\Banque\InterfaceBanque\obj\Debug\InterfaceBanque.pdb
